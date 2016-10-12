@@ -1,0 +1,22 @@
+{
+  "name": "restrict-resource-webpack-plugin",
+  "version": "1.0.0",
+  "description": "Webpack plugin that returns an error message when a resource/module matches a given regular expression",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pebble/restrict-resource-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "Pebble Technology (developer.pebble.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pebble/restrict-resource-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/pebble/restrict-resource-webpack-plugin#readme"
+}
